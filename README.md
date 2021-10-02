@@ -5,17 +5,24 @@ This project is meant to create graphically beautiful fractals.
 # How to run program?
 
 Clone repository and then go into the created directory and run the following command:
-
-`make test`
+```
+make test 
+```
 
 # Controls
 
 Change fractal    `1 - 5`
+
 Zoom              `Scroll`
+
 Move              `Left button or Arrows`
+
 Color             `C`
+
 Reset             `R`
+
 Iterations        `+ and -`
+
 Lock (for Julia)  `Space`
 
 
